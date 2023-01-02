@@ -1,4 +1,4 @@
-*PROGRAM NAME*:
+PROGRAM NAME:
 Finance Calculators
 
 ***DESCRIPTION***:
